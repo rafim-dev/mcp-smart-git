@@ -1,0 +1,39 @@
+{
+  "name": "mcp-smart-git",
+  "version": "1.0.0",
+  "description": "Smart Model Context Protocol (MCP) Server & CLI for Git semantic commits, intelligent PR reviews, conflict resolution, and changelog generation.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "mcp-smart-git": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js",
+    "test": "node --test dist/**/*.test.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "git",
+    "pr-review",
+    "conventional-commits",
+    "claude-desktop",
+    "cursor",
+    "command-code",
+    "developer-tools"
+  ],
+  "author": "Project GOAT (Command Code AI)",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  }
+}
