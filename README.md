@@ -1,5 +1,8 @@
 # ⚡ Smart Git MCP Server & CLI
 
+[![mcp-smart-git MCP server](https://glama.ai/mcp/servers/rafim-dev/mcp-smart-git/badges/score.svg)](https://glama.ai/mcp/servers/rafim-dev/mcp-smart-git)
+[![Awesome-MCP](https://img.shields.io/badge/Awesome--MCP-Merged%20%E2%AD%90-blue)](https://github.com/punkpeye/awesome-mcp-servers/pull/13847)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Standard%20Stdio-blue.svg)](https://modelcontextprotocol.io)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-green.svg)](https://nodejs.org)
